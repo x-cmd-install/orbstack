@@ -1,0 +1,56 @@
+about:
+  description: Fast, light, simple Docker containers & Linux machines
+  license: MIT
+  homepage: https://orbstack.dev
+  head: fee7fc4
+  archived: false
+  latestVersion: 
+  collectedAt: 2026-09-01T05:41:30Z
+timeline:
+  created: 2023-02-17
+  lastCommit: 2025-08-15
+  lastRelease: ?
+popularity:
+  star: 9259
+  watcher: 31
+  fork: 103
+  release: 0
+  contributor: 4
+  pullRequest: 4
+  issue: 2432
+language:
+  Shell: 98
+totalLine: 98
+recent:
+  last30d:
+    since: 2026-08-02
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 22
+    openIssue: 31
+    commit: 0
+  last90d:
+    since: 2026-06-03
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 99
+    openIssue: 73
+    commit: 0
+  last180d:
+    since: 2026-03-05
+    release: 0
+    mergedPR: 0
+    openPR: 1
+    closedIssue: 203
+    openIssue: 106
+    commit: 0
+  last360d:
+    since: 2025-09-06
+    release: 0
+    mergedPR: 0
+    openPR: 1
+    closedIssue: 349
+    openIssue: 169
+    commit: 0
