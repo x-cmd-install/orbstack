@@ -29,30 +29,22 @@ Total: **1** lines of code across **2** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 9,302 · **Forks**: 104 · **Open issues**: 2,441 · **Contributors**: 4
+- **Stars**: 9,305 · **Forks**: 104 · **Open issues**: 2,443 · **Contributors**: 4
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 1 · **Open PRs**: 1 · **Closed issues**: 2042 · **Open issues**: 399 · **Commits**: 30
+- **Releases**: 0 · **Merged PRs**: 1 · **Open PRs**: 1 · **Closed issues**: 2042 · **Open issues**: 401 · **Commits**: 30
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 0 | 0 | 0 | 5 | 31 | 0 |
-| last60d | 2026-07-13 | 0 | 0 | 0 | 39 | 51 | 0 |
-| 90d | 2026-06-13 | 0 | 0 | 0 | 69 | 71 | 0 |
-| last180d | 2026-03-15 | 0 | 0 | 1 | 201 | 110 | 0 |
-| 360d | 2025-09-16 | 0 | 0 | 1 | 335 | 176 | 0 |
-| last720d | 2024-09-21 | 0 | 0 | 1 | 821 | 301 | 2 |
-
-## Distribution status
-
-Reported by **5** distros on [repology.org](https://repology.org/project/orbstack). **1** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Nix unstable | `2.2.3-20963` | ✅ latest |
+| 30d | 2026-08-12 | 0 | 0 | 0 | 5 | 33 | 0 |
+| last60d | 2026-07-13 | 0 | 0 | 0 | 39 | 53 | 0 |
+| 90d | 2026-06-13 | 0 | 0 | 0 | 69 | 73 | 0 |
+| last180d | 2026-03-15 | 0 | 0 | 1 | 201 | 112 | 0 |
+| 360d | 2025-09-16 | 0 | 0 | 1 | 335 | 178 | 0 |
+| last720d | 2024-09-21 | 0 | 0 | 1 | 821 | 303 | 2 |
 
 ## Improve this data
 
@@ -63,4 +55,4 @@ Install metadata for orbstack lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T05:59:24Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T18:48:06Z._
