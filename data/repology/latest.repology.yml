@@ -1,9 +1,9 @@
 - repo: homebrew_casks
   srcname: orbstack
   visiblename: OrbStack
-  version: 2.2.4
+  version: 2.2.5
   origversion: null
-  status: outdated
+  status: newest
   summary: Replacement for Docker Desktop
 - repo: nix_stable_25_05
   srcname: orbstack
@@ -43,7 +43,7 @@
   visiblename: orbstack
   version: 2.2.4-21120
   origversion: null
-  status: newest
+  status: outdated
   summary: Fast, light, and easy way to run Docker containers and Linux machines
   maintainers:
     - nixpkgs.bu5hq@simplelogin.com
