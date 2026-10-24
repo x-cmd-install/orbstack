@@ -29,22 +29,22 @@ Total: **1** lines of code across **2** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 9,463 · **Forks**: 108 · **Open issues**: 2,503 · **Contributors**: 4
+- **Stars**: 9,466 · **Forks**: 108 · **Open issues**: 2,509 · **Contributors**: 4
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 1 · **Open PRs**: 1 · **Closed issues**: 2100 · **Open issues**: 403 · **Commits**: 30
+- **Releases**: 0 · **Merged PRs**: 1 · **Open PRs**: 1 · **Closed issues**: 2101 · **Open issues**: 408 · **Commits**: 30
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 0 | 0 | 0 | 24 | 23 | 0 |
-| last60d | 2026-08-24 | 0 | 0 | 0 | 41 | 42 | 0 |
-| 90d | 2026-07-25 | 0 | 0 | 0 | 87 | 53 | 0 |
-| last180d | 2026-04-26 | 0 | 0 | 0 | 207 | 108 | 0 |
-| 360d | 2025-10-28 | 0 | 0 | 1 | 350 | 166 | 0 |
-| last720d | 2024-11-02 | 0 | 0 | 1 | 821 | 291 | 1 |
+| 30d | 2026-09-24 | 0 | 0 | 0 | 25 | 28 | 0 |
+| last60d | 2026-08-25 | 0 | 0 | 0 | 42 | 46 | 0 |
+| 90d | 2026-07-26 | 0 | 0 | 0 | 87 | 57 | 0 |
+| last180d | 2026-04-27 | 0 | 0 | 0 | 205 | 113 | 0 |
+| 360d | 2025-10-29 | 0 | 0 | 1 | 351 | 171 | 0 |
+| last720d | 2024-11-03 | 0 | 0 | 1 | 820 | 296 | 1 |
 
 ## Distribution status
 
@@ -52,7 +52,7 @@ Reported by **5** distros on [repology.org](https://repology.org/project/orbstac
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Nix unstable | `2.2.4-21120` | ✅ latest |
+| Nix unstable | `2.2.4-21120` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for orbstack lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T06:02:31Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T05:39:43Z._
