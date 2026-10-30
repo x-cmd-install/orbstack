@@ -7,7 +7,7 @@ about:
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-10-29T06:57:03Z
+  collectedAt: 2026-10-30T07:02:01Z
 timeline:
   created: 2023-02-17
   lastCommit: 2025-08-15
@@ -15,75 +15,75 @@ timeline:
   lastRelease: 
   lastPrerelease: 
 popularity:
-  star: 9485
+  star: 9489
   watcher: 28
   fork: 109
   release: 0
   contributor: 4
   pullRequest: 5
-  issue: 2519
+  issue: 2520
 language:
   Shell: 98
 totalBytes: 98
 recent:
   last30d:
-    since: 2026-09-29
+    since: 2026-09-30
     release: 0
     mergedPR: 0
     openPR: 0
-    closedIssue: 18
+    closedIssue: 17
     openIssue: 35
     commit: 0
   last60d:
-    since: 2026-08-30
+    since: 2026-08-31
     release: 0
     mergedPR: 0
     openPR: 0
-    closedIssue: 40
-    openIssue: 52
+    closedIssue: 39
+    openIssue: 53
     commit: 0
   last90d:
-    since: 2026-07-31
+    since: 2026-08-01
     release: 0
     mergedPR: 0
     openPR: 0
-    closedIssue: 82
+    closedIssue: 81
     openIssue: 65
     commit: 0
   last180d:
-    since: 2026-05-02
+    since: 2026-05-03
     release: 0
     mergedPR: 0
     openPR: 0
-    closedIssue: 198
+    closedIssue: 199
     openIssue: 119
     commit: 0
   last360d:
-    since: 2025-11-03
+    since: 2025-11-04
     release: 0
     mergedPR: 0
     openPR: 1
-    closedIssue: 343
+    closedIssue: 344
     openIssue: 177
     commit: 0
   last720d:
-    since: 2024-11-08
+    since: 2024-11-09
     release: 0
     mergedPR: 0
     openPR: 1
-    closedIssue: 807
-    openIssue: 305
+    closedIssue: 805
+    openIssue: 304
     commit: 1
 total:
   release: 0
   mergedPR: 1
   openPR: 1
-  closedIssue: 2101
+  closedIssue: 2102
   openIssue: 418
   commit: 30
 ---
 path: /home/runner/.x-repo/github.com/orbstack/orbstack
-collectedAt: 2026-10-29T06:57:05Z
+collectedAt: 2026-10-30T07:02:03Z
 loc:
   Zsh:
     code: 1
