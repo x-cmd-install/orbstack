@@ -29,22 +29,22 @@ Total: **1** lines of code across **2** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 9,494 · **Forks**: 109 · **Open issues**: 2,521 · **Contributors**: 4
+- **Stars**: 9,494 · **Forks**: 109 · **Open issues**: 2,522 · **Contributors**: 4
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 1 · **Open PRs**: 1 · **Closed issues**: 2102 · **Open issues**: 419 · **Commits**: 30
+- **Releases**: 0 · **Merged PRs**: 1 · **Open PRs**: 1 · **Closed issues**: 2103 · **Open issues**: 419 · **Commits**: 30
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 0 | 0 | 0 | 14 | 36 | 0 |
-| last60d | 2026-09-02 | 0 | 0 | 0 | 38 | 52 | 0 |
-| 90d | 2026-08-03 | 0 | 0 | 0 | 72 | 66 | 0 |
-| last180d | 2026-05-05 | 0 | 0 | 0 | 198 | 120 | 0 |
-| 360d | 2025-11-06 | 0 | 0 | 1 | 342 | 178 | 0 |
-| last720d | 2024-11-11 | 0 | 0 | 1 | 802 | 304 | 1 |
+| 30d | 2026-10-03 | 0 | 0 | 0 | 14 | 37 | 0 |
+| last60d | 2026-09-03 | 0 | 0 | 0 | 38 | 53 | 0 |
+| 90d | 2026-08-04 | 0 | 0 | 0 | 67 | 67 | 0 |
+| last180d | 2026-05-06 | 0 | 0 | 0 | 197 | 121 | 0 |
+| 360d | 2025-11-07 | 0 | 0 | 1 | 342 | 179 | 0 |
+| last720d | 2024-11-12 | 0 | 0 | 1 | 800 | 303 | 1 |
 
 ## Distribution status
 
@@ -63,4 +63,4 @@ Install metadata for orbstack lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T07:10:12Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T07:28:53Z._
